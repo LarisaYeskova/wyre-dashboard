@@ -124,7 +124,6 @@ export default function MakeAwithDrawal({ drawers, setDrawers }) {
                 value="AUD Bank account ending in 5701"
                 variant="standard"
                 sx={{
-                  // padding: '20px 10px 20px 10px',
                   border: 'none',
                   '&::before': {
                     border: 'none',

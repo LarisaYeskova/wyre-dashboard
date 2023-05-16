@@ -83,7 +83,6 @@ export default function WalletAdress({ selectDepositMethod }) {
           Back
         </Button>
         <Button
-          // disabled={!acceptTerms}
           sx={{
             borderRadius: '10px',
             padding: '10px 20px',
